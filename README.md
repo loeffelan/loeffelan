@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @loeffelan
-- 👀 I’m interested in _learning C++_
-- 🌱 I’m currently learning _C++_
+- 👀 I’m interested in _learning C_
+- 🌱 I’m currently learning _C_
